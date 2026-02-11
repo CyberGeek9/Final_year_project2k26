@@ -1,0 +1,13 @@
+flask
+flask-cors
+python-dotenv
+google-generativeai
+pdfplumber
+python-docx
+werkzeug
+google-genai
+requests
+PyPDF2
+fastapi
+uvicorn
+python-multipart
